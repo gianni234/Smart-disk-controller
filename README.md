@@ -73,7 +73,8 @@ python3 smart_disk_info.py --demo
 
 ### License
 
-Released under the MIT License. Contributions, issues, and pull requests are welcome.
+No license.
+Contributions, issues, and pull requests are welcome.
 
 ---
 
