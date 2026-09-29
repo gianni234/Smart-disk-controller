@@ -80,4 +80,3 @@ Released under the MIT License. Contributions, issues, and pull requests are wel
 ### Credits
 
 Developed in collaboration with Antigravity.
-```
