@@ -1,4 +1,4 @@
-# smart disk controller
+# S.M.A.R.T disk controller
 
 Lightweight Python and Qt GUI for smartctl on Linux. It monitors drive health (NVMe, SATA SSD, and mechanical HDD), calculates estimated remaining life percentage, and cleanly displays SMART attributes. Supports English, Italian, and Russian out of the box.
 
